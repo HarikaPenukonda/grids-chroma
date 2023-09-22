@@ -1,0 +1,9 @@
+.box{
+    background-color: #bad7f2;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
